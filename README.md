@@ -6,5 +6,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./screenshot.jpg)
 
-### Live website
+### Links
+
+- Solution URL: [github](https://github.com/romamik/frontend-mentor-qr-code)
+- Live Site URL: [github pages](https://romamik.github.io/frontend-mentor-qr-code/)
 
